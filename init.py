@@ -15,8 +15,18 @@ def itemLister(dataSet):
 
 
 #return list of items that meet support threshhold
-def supportList(Ck, threshhold):
-  itemcount = {}
+def supportList(Ck, Doc, threshhold):
+  itemcount = defaultdict(int)
+  for transaction in Doc:
+    for candidate in Ck:
+      if candidate issubset(transaction)
+        itemcount[candidate] += 1
+  for item, count in itemcount:
+    print "item:"
+    print item
+    print "count:"
+    print count
+
   
 #return Ck
 def aprioriGen(lkPrev):
@@ -41,9 +51,12 @@ def main():
   #Actual Apriori Algo
   """
   L1 = {large 1 item sets}
-  while(L1 not empty):
-    Ck = aprioriGen()
-
+  while(Lk-1 not empty):
+    Ck = aprioriGen(Lk-1)
+    for transaction in dataset
+      Ci = subset(Ck, transaction) // candidates contained in transaction 
+      for candidates in Ci
+        c.count++
   #Check confidence
   
   #association rule maker
