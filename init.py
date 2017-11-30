@@ -18,7 +18,8 @@ def itemLister(dataSet):
 def supportList(Ck, threshhold):
   itemcount = {}
   
-  
+#return Ck
+def aprioriGen(lkPrev):
 
 def main():
   
@@ -26,20 +27,23 @@ def main():
   
 
   #proccess data 
-  myList = itemLister(dataSet)
+  C1 = c1Generator(dataSet)
   
-  print myList
+  print C1
   
 
-  support = .3
+  supportThresh = .3
   totalSize = len(myList)
-  
   
   
   #create list of Ck
   
   #Actual Apriori Algo
-  
+  """
+  L1 = {large 1 item sets}
+  while(L1 not empty):
+    Ck = aprioriGen()
+
   #Check confidence
   
   #association rule maker
