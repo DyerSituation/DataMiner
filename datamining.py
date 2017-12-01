@@ -40,8 +40,8 @@ def prune(listk):
 
 
 file_name = sys.argv[1]
-min_sup = sys.argv[2]
-min_conf = sys.argv[3]
+min_sup = float(sys.argv[2])
+min_conf = float(sys.argv[3])
 
 with open(file_name) as f:
 	rows = csv.reader(f)
