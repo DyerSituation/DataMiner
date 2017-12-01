@@ -5,11 +5,16 @@ Erik Dyer, ead2174
 Sarina Xie, sx2166
 
 b:
+datamining.py
 NYC_Death_Causes.csv
 README.md
+example-run.txt
 
+c: Run:
 
-c:
+python datamining.py (path/to/datasetfile.scv) min_supp min_conf
+
+where min_supp is the minimum support and min_conf is the minimum confidence, both in decimal form. 
 
 d:
 (a) We used only the New York City Leading Causes of Death Data set
@@ -20,6 +25,7 @@ e:
 
 f:
 python datamining.py NYC_Death_Causes.csv .01 .5 
+There is all sorts of alarming info that you can glean fromt the results. Ex: while Alzheimer's disease affects twice as many women as men, 96% of Alzheimer's related deaths in NYC are women. Another, not as surprising but still important observation: 85% of homicide victims are men. This gives us a glimps into the potentiall issues being faced in the city.
 
 
 
