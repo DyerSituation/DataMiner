@@ -21,7 +21,7 @@ def find_sets(dictk):
 
 
 def find_freqs(listk):
-	#populate dictionary for k+1 itemset - itemset|frequency
+	#create dictionary for k+1 itemset - itemset|frequency
 	setsk = {}
 	for row in biglist:
 		for itemset in listk:
@@ -50,7 +50,7 @@ file_name = sys.argv[1]
 with open(file_name) as f:
 	rows = csv.reader(f)
 	biglist = list(rows)
-	#populate dictionary for k=1 - itemset|frequency
+	#create dictionary for k=1 - itemset|frequency
 	sets1 = {}
 	for row in biglist:
 		for i in range(0, len(row)):
@@ -86,7 +86,7 @@ while frequents > 0:
 	
 	frequents = len(dictk)	#if set is empty, stop
 
-#generate association rules that follow the format {a,b,c,...} -> y
+#generate association rules in the form {a,b,c,...} -> y
 rules = {}		#(leftside, rightside) | frequency of leftside
 for itemset in frequentsets:
 	if len(itemset) > 1:
@@ -99,10 +99,6 @@ for itemset in frequentsets:
 			supportx = freqfreqs[frozenset(itemset)]/float(len(biglist))
 			rules[entry] = [confidence, supportx]
 			dupe.insert(0, y)
-
-# print "rules--------------------------\n"
-# for k,v in rules.items():
-# 	print k, '-->', v
 
 listrules = []
 for ru in rules:
