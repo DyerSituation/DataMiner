@@ -1,0 +1,337 @@
+==Frequent itemsets (min_sup=1.0%)
+['0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)'], 3%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '1-F'], 3%
+['2-White Non-Hispanic', '0-Influenza (Flu) and Pneumonia (J09-J18)'], 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'], 8%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'], 7%
+['2-White Non-Hispanic', '0-Essential Hypertension and Renal Diseases (I10, I12)'], 1%
+["0-Alzheimer's Disease (G30)", '1-F'], 2%
+['2-Asian and Pacific Islander'], 16%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)', '2-Not Stated/Unknown'], 1%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'], 3%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '1-F'], 4%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '2-Asian and Pacific Islander'], 1%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)', '1-F'], 1%
+['2-Hispanic', '1-M'], 8%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)', '2-Hispanic'], 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '2-Black Non-Hispanic'], 1%
+["0-Alzheimer's Disease (G30)"], 2%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)', '2-White Non-Hispanic'], 1%
+['1-F', '2-Asian and Pacific Islander'], 8%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)', '2-Black Non-Hispanic'], 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '2-Hispanic'], 1%
+['0-Diabetes Mellitus (E10-E14)', '1-M'], 4%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)', '1-F'], 1%
+['1-M', '0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)'], 2%
+['0-Influenza (Flu) and Pneumonia (J09-J18)', '2-Black Non-Hispanic'], 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '1-F'], 4%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)', '2-Not Stated/Unknown'], 0%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'], 8%
+['2-Other Race/ Ethnicity', '1-F'], 8%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '1-M'], 4%
+['0-Essential Hypertension and Renal Diseases (I10, I12)', '2-Other Race/ Ethnicity'], 0%
+['1-M'], 49%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '2-Other Race/ Ethnicity'], 1%
+['1-M', '2-Other Race/ Ethnicity'], 8%
+['0-Chronic Liver Disease and Cirrhosis (K70, K73)', '2-Hispanic'], 1%
+['2-White Non-Hispanic', '1-F'], 8%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '2-Black Non-Hispanic'], 1%
+['0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)', '1-F'], 1%
+['0-Diabetes Mellitus (E10-E14)', '1-F'], 4%
+['2-Hispanic', '0-All Other Causes'], 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '2-Asian and Pacific Islander'], 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '2-White Non-Hispanic'], 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '2-Black Non-Hispanic'], 1%
+['2-White Non-Hispanic'], 16%
+['0-Diabetes Mellitus (E10-E14)', '2-Other Race/ Ethnicity'], 1%
+['2-Hispanic', '0-Influenza (Flu) and Pneumonia (J09-J18)'], 1%
+['1-M', '2-Black Non-Hispanic'], 8%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '2-Hispanic'], 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '2-Other Race/ Ethnicity'], 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '2-Other Race/ Ethnicity'], 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'], 8%
+['0-Diabetes Mellitus (E10-E14)', '2-Hispanic'], 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)'], 3%
+['0-Diabetes Mellitus (E10-E14)', '2-Not Stated/Unknown'], 1%
+['1-M', '0-All Other Causes'], 4%
+['2-Not Stated/Unknown', '1-F'], 9%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'], 6%
+['0-Assault (Homicide: Y87.1, X85-Y09)', '1-M'], 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)', '1-F'], 4%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)', '1-M'], 2%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'], 8%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '2-Not Stated/Unknown'], 1%
+['0-Chronic Liver Disease and Cirrhosis (K70, K73)', '1-M'], 1%
+['0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)', '2-Asian and Pacific Islander'], 1%
+['0-All Other Causes', '2-Black Non-Hispanic'], 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '1-M'], 3%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '2-Asian and Pacific Islander'], 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '2-Hispanic'], 1%
+['2-White Non-Hispanic', '1-M'], 8%
+['0-Chronic Liver Disease and Cirrhosis (K70, K73)'], 2%
+['1-M', '0-Influenza (Flu) and Pneumonia (J09-J18)'], 4%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)', '2-Hispanic'], 1%
+['0-Septicemia (A40-A41)'], 1%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)'], 2%
+['2-White Non-Hispanic', '0-All Other Causes'], 1%
+['2-White Non-Hispanic', '0-Diabetes Mellitus (E10-E14)'], 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '1-M'], 3%
+['0-Essential Hypertension and Renal Diseases (I10, I12)', '1-F'], 4%
+['2-Other Race/ Ethnicity', '0-All Other Causes'], 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '2-White Non-Hispanic'], 1%
+['2-Not Stated/Unknown', '0-All Other Causes'], 1%
+['1-F', '2-Black Non-Hispanic'], 8%
+['1-M', '2-Not Stated/Unknown'], 8%
+['0-Influenza (Flu) and Pneumonia (J09-J18)', '2-Asian and Pacific Islander'], 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)', '2-Not Stated/Unknown'], 1%
+['0-Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)'], 1%
+['2-Not Stated/Unknown', '0-Essential Hypertension and Renal Diseases (I10, I12)'], 0%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '2-Not Stated/Unknown'], 0%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '2-Black Non-Hispanic'], 1%
+['0-All Other Causes', '2-Asian and Pacific Islander'], 1%
+['0-All Other Causes'], 8%
+['2-Other Race/ Ethnicity'], 16%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '2-Not Stated/Unknown'], 1%
+['2-Not Stated/Unknown', '0-Influenza (Flu) and Pneumonia (J09-J18)'], 1%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)', '1-F'], 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '1-F'], 4%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '2-Hispanic'], 1%
+['2-White Non-Hispanic', '0-Malignant Neoplasms (Cancer: C00-C97)'], 1%
+['1-F'], 50%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'], 8%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)', '1-M'], 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)', '2-Asian and Pacific Islander'], 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '1-F'], 4%
+['0-Septicemia (A40-A41)', '1-F'], 1%
+['0-Diabetes Mellitus (E10-E14)', '2-Black Non-Hispanic'], 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '1-M'], 4%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '2-Other Race/ Ethnicity'], 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '2-Hispanic'], 1%
+['0-Essential Hypertension and Renal Diseases (I10, I12)', '2-Black Non-Hispanic'], 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)', '2-Not Stated/Unknown'], 1%
+['0-Essential Hypertension and Renal Diseases (I10, I12)', '2-Asian and Pacific Islander'], 1%
+['2-Black Non-Hispanic'], 16%
+['0-Diabetes Mellitus (E10-E14)'], 8%
+['1-M', '2-Asian and Pacific Islander'], 8%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)', '2-Asian and Pacific Islander'], 1%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)', '1-M'], 2%
+['2-Hispanic', '1-F'], 8%
+['0-Malignant Neoplasms (Cancer: C00-C97)', '2-Not Stated/Unknown'], 1%
+['2-Hispanic'], 16%
+['0-Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)', '1-F'], 1%
+['2-Not Stated/Unknown'], 18%
+['2-White Non-Hispanic', '0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'], 1%
+['1-M', '0-Essential Hypertension and Renal Diseases (I10, I12)'], 2%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', '1-M'], 4%
+['0-Assault (Homicide: Y87.1, X85-Y09)'], 1%
+['2-Other Race/ Ethnicity', '0-Influenza (Flu) and Pneumonia (J09-J18)'], 1%
+['2-White Non-Hispanic', '0-Cerebrovascular Disease (Stroke: I60-I69)'], 1%
+['0-All Other Causes', '1-F'], 4%
+['0-Diabetes Mellitus (E10-E14)', '2-Asian and Pacific Islander'], 1%
+==High-confidence association rules (min_conf=50.0%
+['1-F'] => 0-Septicemia (A40-A41) Conf: 1%, Support: 1%
+['1-F'] => 0-Intentional Self-Harm (Suicide: X60-X84, Y87.0) Conf: 2%, Support: 1%
+['1-F'] => 0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44) Conf: 2%, Support: 1%
+['1-F'] => 0-Certain Conditions originating in the Perinatal Period (P00-P96) Conf: 2%, Support: 1%
+['1-M'] => 0-Certain Conditions originating in the Perinatal Period (P00-P96) Conf: 2%, Support: 1%
+['1-F'] => 0-Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27) Conf: 2%, Support: 1%
+['1-F'] => 0-Human Immunodeficiency Virus Disease (HIV: B20-B24) Conf: 3%, Support: 1%
+['1-M'] => 0-Assault (Homicide: Y87.1, X85-Y09) Conf: 3%, Support: 1%
+['1-M'] => 0-Chronic Liver Disease and Cirrhosis (K70, K73) Conf: 3%, Support: 1%
+['1-M'] => 0-Intentional Self-Harm (Suicide: X60-X84, Y87.0) Conf: 4%, Support: 2%
+['1-M'] => 0-Human Immunodeficiency Virus Disease (HIV: B20-B24) Conf: 4%, Support: 2%
+['2-Not Stated/Unknown'] => 0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44) Conf: 5%, Support: 0%
+['2-Not Stated/Unknown'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 5%, Support: 0%
+['2-Not Stated/Unknown'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 5%, Support: 0%
+['1-M'] => 0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44) Conf: 5%, Support: 2%
+['1-M'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 5%, Support: 2%
+['2-Other Race/ Ethnicity'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 5%, Support: 0%
+['2-Not Stated/Unknown'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 5%, Support: 1%
+['2-Not Stated/Unknown'] => 0-Human Immunodeficiency Virus Disease (HIV: B20-B24) Conf: 5%, Support: 1%
+['1-F'] => 0-Alzheimer's Disease (G30) Conf: 5%, Support: 2%
+['2-Not Stated/Unknown'] => 0-Diabetes Mellitus (E10-E14) Conf: 6%, Support: 1%
+['2-Hispanic'] => 0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44) Conf: 6%, Support: 1%
+['2-Hispanic'] => 0-Chronic Liver Disease and Cirrhosis (K70, K73) Conf: 6%, Support: 1%
+['2-White Non-Hispanic'] => 0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44) Conf: 6%, Support: 1%
+['1-F'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 6%, Support: 3%
+['2-Hispanic'] => 0-Human Immunodeficiency Virus Disease (HIV: B20-B24) Conf: 7%, Support: 1%
+['2-Not Stated/Unknown'] => 0-Certain Conditions originating in the Perinatal Period (P00-P96) Conf: 7%, Support: 1%
+['2-Other Race/ Ethnicity'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 7%, Support: 1%
+['1-M'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 7%, Support: 3%
+['1-M'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 7%, Support: 3%
+['2-Not Stated/Unknown'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 8%, Support: 1%
+['2-Not Stated/Unknown'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 8%, Support: 1%
+['2-Not Stated/Unknown'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 8%, Support: 1%
+['2-Not Stated/Unknown'] => 0-All Other Causes Conf: 8%, Support: 1%
+['2-Not Stated/Unknown'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 8%, Support: 1%
+['2-Other Race/ Ethnicity'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 8%, Support: 1%
+['1-F'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 8%, Support: 4%
+['1-F'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 8%, Support: 4%
+['1-M'] => 0-Diabetes Mellitus (E10-E14) Conf: 8%, Support: 4%
+['1-M'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 8%, Support: 4%
+['2-Asian and Pacific Islander'] => 0-Intentional Self-Harm (Suicide: X60-X84, Y87.0) Conf: 8%, Support: 1%
+['2-Hispanic'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 8%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 8%, Support: 1%
+['2-Hispanic'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 8%, Support: 1%
+['1-F'] => 0-Diabetes Mellitus (E10-E14) Conf: 8%, Support: 4%
+['2-Other Race/ Ethnicity'] => 0-All Other Causes Conf: 8%, Support: 1%
+['2-Other Race/ Ethnicity'] => 0-Diabetes Mellitus (E10-E14) Conf: 8%, Support: 1%
+['2-Other Race/ Ethnicity'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 8%, Support: 1%
+['2-Other Race/ Ethnicity'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 8%, Support: 1%
+['2-Other Race/ Ethnicity'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 8%, Support: 1%
+['1-F'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 8%, Support: 4%
+['1-F'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 8%, Support: 4%
+['1-F'] => 0-All Other Causes Conf: 8%, Support: 4%
+['1-F'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 8%, Support: 4%
+['1-F'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 8%, Support: 4%
+['1-M'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 8%, Support: 4%
+['1-M'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 8%, Support: 4%
+['1-M'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 8%, Support: 4%
+['1-M'] => 0-All Other Causes Conf: 8%, Support: 4%
+['2-Black Non-Hispanic'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Human Immunodeficiency Virus Disease (HIV: B20-B24) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-Diabetes Mellitus (E10-E14) Conf: 8%, Support: 1%
+['2-Black Non-Hispanic'] => 0-All Other Causes Conf: 8%, Support: 1%
+['2-Hispanic'] => 0-Diabetes Mellitus (E10-E14) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Diabetes Mellitus (E10-E14) Conf: 9%, Support: 1%
+['2-Hispanic'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 9%, Support: 1%
+['2-Hispanic'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-All Other Causes Conf: 9%, Support: 1%
+['2-Hispanic'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 9%, Support: 1%
+['2-Hispanic'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 9%, Support: 1%
+['2-Hispanic'] => 0-All Other Causes Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 9%, Support: 1%
+['2-Asian and Pacific Islander'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Essential Hypertension and Renal Diseases (I10, I12) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Cerebrovascular Disease (Stroke: I60-I69) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Influenza (Flu) and Pneumonia (J09-J18) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Chronic Lower Respiratory Diseases (J40-J47) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Diabetes Mellitus (E10-E14) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Diseases of Heart (I00-I09, I11, I13, I20-I51) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-All Other Causes Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Malignant Neoplasms (Cancer: C00-C97) Conf: 9%, Support: 1%
+['2-White Non-Hispanic'] => 0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86) Conf: 9%, Support: 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 2-Not Stated/Unknown Conf: 12%, Support: 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 2-Not Stated/Unknown Conf: 12%, Support: 0%
+['0-Diabetes Mellitus (E10-E14)'] => 2-Not Stated/Unknown Conf: 13%, Support: 1%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 2-Not Stated/Unknown Conf: 13%, Support: 0%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 2-Other Race/ Ethnicity Conf: 13%, Support: 0%
+['1-F'] => 2-White Non-Hispanic Conf: 15%, Support: 8%
+['1-F'] => 2-Asian and Pacific Islander Conf: 15%, Support: 8%
+['1-F'] => 2-Hispanic Conf: 16%, Support: 8%
+['1-F'] => 2-Black Non-Hispanic Conf: 16%, Support: 8%
+['1-M'] => 2-Hispanic Conf: 16%, Support: 8%
+['1-M'] => 2-White Non-Hispanic Conf: 16%, Support: 8%
+['1-M'] => 2-Black Non-Hispanic Conf: 16%, Support: 8%
+['1-M'] => 2-Asian and Pacific Islander Conf: 16%, Support: 8%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 2-Other Race/ Ethnicity Conf: 16%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 2-Hispanic Conf: 16%, Support: 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 2-Not Stated/Unknown Conf: 16%, Support: 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 2-Other Race/ Ethnicity Conf: 16%, Support: 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 2-Hispanic Conf: 16%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 2-Asian and Pacific Islander Conf: 16%, Support: 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 2-White Non-Hispanic Conf: 16%, Support: 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 2-Asian and Pacific Islander Conf: 16%, Support: 1%
+['0-All Other Causes'] => 2-Black Non-Hispanic Conf: 16%, Support: 1%
+['0-All Other Causes'] => 2-Asian and Pacific Islander Conf: 16%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 2-White Non-Hispanic Conf: 16%, Support: 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 2-Not Stated/Unknown Conf: 16%, Support: 1%
+['0-All Other Causes'] => 2-Other Race/ Ethnicity Conf: 16%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 2-Other Race/ Ethnicity Conf: 16%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 2-Not Stated/Unknown Conf: 16%, Support: 1%
+['0-All Other Causes'] => 2-Not Stated/Unknown Conf: 16%, Support: 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 2-Asian and Pacific Islander Conf: 16%, Support: 1%
+['0-All Other Causes'] => 2-Hispanic Conf: 16%, Support: 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 2-Black Non-Hispanic Conf: 16%, Support: 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 2-Hispanic Conf: 16%, Support: 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 2-Black Non-Hispanic Conf: 16%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 2-Black Non-Hispanic Conf: 16%, Support: 1%
+['0-All Other Causes'] => 2-White Non-Hispanic Conf: 16%, Support: 1%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 2-White Non-Hispanic Conf: 16%, Support: 1%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 2-Other Race/ Ethnicity Conf: 16%, Support: 1%
+['1-F'] => 2-Other Race/ Ethnicity Conf: 16%, Support: 8%
+['1-M'] => 2-Other Race/ Ethnicity Conf: 17%, Support: 8%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 2-Hispanic Conf: 17%, Support: 1%
+['0-Diabetes Mellitus (E10-E14)'] => 2-Other Race/ Ethnicity Conf: 17%, Support: 1%
+['0-Diabetes Mellitus (E10-E14)'] => 2-Asian and Pacific Islander Conf: 17%, Support: 1%
+['0-Diabetes Mellitus (E10-E14)'] => 2-Hispanic Conf: 17%, Support: 1%
+['0-Diabetes Mellitus (E10-E14)'] => 2-Black Non-Hispanic Conf: 17%, Support: 1%
+['0-Diabetes Mellitus (E10-E14)'] => 2-White Non-Hispanic Conf: 17%, Support: 1%
+['1-M'] => 2-Not Stated/Unknown Conf: 17%, Support: 8%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 2-Other Race/ Ethnicity Conf: 17%, Support: 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 2-Hispanic Conf: 17%, Support: 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 2-Black Non-Hispanic Conf: 17%, Support: 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 2-White Non-Hispanic Conf: 17%, Support: 1%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 2-Asian and Pacific Islander Conf: 17%, Support: 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 2-Not Stated/Unknown Conf: 18%, Support: 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 2-White Non-Hispanic Conf: 18%, Support: 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 2-Black Non-Hispanic Conf: 18%, Support: 1%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 2-Asian and Pacific Islander Conf: 18%, Support: 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 2-Hispanic Conf: 18%, Support: 1%
+['1-F'] => 2-Not Stated/Unknown Conf: 19%, Support: 9%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 2-Asian and Pacific Islander Conf: 20%, Support: 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 2-Asian and Pacific Islander Conf: 20%, Support: 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 2-White Non-Hispanic Conf: 20%, Support: 1%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 2-Black Non-Hispanic Conf: 21%, Support: 1%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 2-White Non-Hispanic Conf: 21%, Support: 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)'] => 2-Not Stated/Unknown Conf: 25%, Support: 1%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] => 2-Not Stated/Unknown Conf: 25%, Support: 0%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] => 2-Hispanic Conf: 28%, Support: 1%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] => 2-White Non-Hispanic Conf: 28%, Support: 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)'] => 2-Hispanic Conf: 30%, Support: 1%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] => 1-F Conf: 30%, Support: 1%
+['0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)'] => 1-F Conf: 31%, Support: 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)'] => 2-Black Non-Hispanic Conf: 37%, Support: 1%
+['0-Chronic Liver Disease and Cirrhosis (K70, K73)'] => 2-Hispanic Conf: 37%, Support: 1%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 1-M Conf: 38%, Support: 2%
+['0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)'] => 2-Asian and Pacific Islander Conf: 39%, Support: 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)'] => 1-F Conf: 39%, Support: 1%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 1-F Conf: 43%, Support: 3%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 1-M Conf: 46%, Support: 3%
+['2-Not Stated/Unknown'] => 1-M Conf: 47%, Support: 8%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 1-M Conf: 48%, Support: 3%
+['0-Diabetes Mellitus (E10-E14)'] => 1-M Conf: 48%, Support: 4%
+['2-Other Race/ Ethnicity'] => 1-M Conf: 49%, Support: 8%
+['2-Asian and Pacific Islander'] => 1-F Conf: 49%, Support: 8%
+['2-Hispanic'] => 1-M Conf: 49%, Support: 8%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)'] => 1-F Conf: 50%, Support: 1%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)'] => 1-M Conf: 50%, Support: 1%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 1-M Conf: 50%, Support: 4%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 1-F Conf: 50%, Support: 4%
+['0-Diseases of Heart (I00-I09, I11, I13, I20-I51)'] => 1-M Conf: 50%, Support: 4%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 1-F Conf: 50%, Support: 4%
+['0-All Other Causes'] => 1-M Conf: 50%, Support: 4%
+['0-Influenza (Flu) and Pneumonia (J09-J18)'] => 1-M Conf: 50%, Support: 4%
+['0-All Other Causes'] => 1-F Conf: 50%, Support: 4%
+['0-Malignant Neoplasms (Cancer: C00-C97)'] => 1-F Conf: 50%, Support: 4%
+['2-White Non-Hispanic'] => 1-F Conf: 50%, Support: 8%
+['2-White Non-Hispanic'] => 1-M Conf: 50%, Support: 8%
+['2-Black Non-Hispanic'] => 1-F Conf: 50%, Support: 8%
+['2-Black Non-Hispanic'] => 1-M Conf: 50%, Support: 8%
+['2-Hispanic'] => 1-F Conf: 50%, Support: 8%
+['2-Asian and Pacific Islander'] => 1-M Conf: 50%, Support: 8%
+['2-Other Race/ Ethnicity'] => 1-F Conf: 50%, Support: 8%
+['0-Diabetes Mellitus (E10-E14)'] => 1-F Conf: 51%, Support: 4%
+['0-Chronic Lower Respiratory Diseases (J40-J47)'] => 1-F Conf: 51%, Support: 4%
+['2-Not Stated/Unknown'] => 1-F Conf: 53%, Support: 9%
+['0-Cerebrovascular Disease (Stroke: I60-I69)'] => 1-F Conf: 53%, Support: 4%
+['0-Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => 1-M Conf: 56%, Support: 4%
+['0-Certain Conditions originating in the Perinatal Period (P00-P96)'] => 2-Not Stated/Unknown Conf: 57%, Support: 1%
+['0-Human Immunodeficiency Virus Disease (HIV: B20-B24)'] => 1-M Conf: 60%, Support: 2%
+['0-Essential Hypertension and Renal Diseases (I10, I12)'] => 1-F Conf: 61%, Support: 4%
+['0-Intentional Self-Harm (Suicide: X60-X84, Y87.0)'] => 1-M Conf: 68%, Support: 2%
+['0-Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] => 1-M Conf: 69%, Support: 2%
+['0-Chronic Liver Disease and Cirrhosis (K70, K73)'] => 1-M Conf: 72%, Support: 1%
+['0-Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)'] => 1-F Conf: 82%, Support: 1%
+['0-Septicemia (A40-A41)'] => 1-F Conf: 84%, Support: 1%
+['0-Assault (Homicide: Y87.1, X85-Y09)'] => 1-M Conf: 85%, Support: 1%
+["0-Alzheimer's Disease (G30)"] => 1-F Conf: 96%, Support: 2%
