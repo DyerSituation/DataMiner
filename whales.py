@@ -4,55 +4,13 @@ import itertools
 from collections import defaultdict
 import copy
 
-#http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation
-
 # min_sup = sys.argv[2]
 # min_conf = sys.argv[3]
 min_sup = 0.00
-min_conf = 0.0
+min_conf = 0.5
 
-file_name = sys.argv[1]
-with open(file_name) as f:
-	rows = csv.reader(f)
-	biglist = list(rows)
-	#populate dictionary for k=1 itemsets|frequency
-	sets1 = {}
-	for row in biglist:
-		for i in range(0, len(row)):
-			row[i] = str(i) + "-" + row[i].rstrip()		#attach column number to the item
 
-			'''
-			consider doing if i == column number, round(int(row[i]), 0) for some columns
-			'''
-			if row[i] not in sets1:
-				sets1[row[i]] = 1
-			else:
-				sets1[row[i]] += 1
-		row = set(row)
-min_sup_count = int(min_sup*len(biglist))
-
-#fill in listsets1, initialize stuff for while loop
-first = True
-frequents = 1
-frequentsets = []
-freqfreqs = {}
-list1 = []
-for item in sets1:
-	if sets1[item] >= min_sup_count:
-		list1.append(item)
-		frequentsets.append([item])
-		freqfreqs[frozenset([item])] = sets1[item]
-while frequents > 0:
-	#generate listk - k+1 itemset from the previous iteration's itemset
-	listk = []
-	if first == True:
-		listk = list(itertools.combinations(list1, 2))
-		first = False
-	else:
-		for k, v in dictk.iteritems():
-			endings = itertools.combinations(v, 2)
-			for e in endings:
-				listk.append(list(k) + list(e))
+def populate_setdict(listk):
 	#populate dictionary for k+1 itemset - itemset|frequency
 	setsk = {}
 	for row in biglist:
@@ -64,7 +22,17 @@ while frequents > 0:
 					setsk[itemset] = 1
 				else:
 					setsk[itemset] += 1
-	#create dict of dissected items for use in the next iteration
+	return setsk
+
+def generate_list(dictk):
+	listk = []
+	for k, v in dictk.iteritems():
+		endings = itertools.combinations(v, 2)
+		for e in endings:
+			listk.append(list(k) + list(e))
+	return listk
+
+def generate_dissected_dict(listk):
 	dictk = defaultdict(list)
 	for item in setsk:
 		if setsk[item] >= min_sup_count:
@@ -73,8 +41,48 @@ while frequents > 0:
 			dictk[tuple(item[:-1])].append(item[-1])
 			#store the frequent sets in a list for making association rules from
 			frequentsets.append(item)
-		else:
-			del dictk[item]
+	return dictk
+
+
+file_name = sys.argv[1]
+with open(file_name) as f:
+	rows = csv.reader(f)
+	biglist = list(rows)
+	#populate dictionary for k=1 itemsets|frequency
+	sets1 = {}
+	for row in biglist:
+		for i in range(0, len(row)):
+			row[i] = str(i) + "-" + row[i].rstrip()		#attach column number to the item
+			#consider doing if i == column number, round(int(row[i]), 0) for some columns
+			if row[i] not in sets1:
+				sets1[row[i]] = 1
+			else:
+				sets1[row[i]] += 1
+		row = set(row)		#convert to set to be able to use issubset() later
+
+#initialize stuff for while loop, fill in listsets1
+first = True
+frequents = 1
+frequentsets = []
+freqfreqs = {}
+min_sup_count = int(min_sup*len(biglist))
+
+list1 = []
+for item in sets1:
+	if sets1[item] >= min_sup_count:
+		list1.append(item)
+		frequentsets.append([item])
+		freqfreqs[frozenset([item])] = sets1[item]
+
+while frequents > 0:
+	if first == True:
+		listk = list(itertools.combinations(list1, 2))
+		first = False
+	else:
+		listk = generate_list(dictk)	#dictk is from previous iteration
+	setsk = populate_setdict(listk)
+
+	dictk = generate_dissected_dict(setsk)
 	#update loop condition
 	frequents = len(dictk)
 
@@ -98,9 +106,9 @@ for itemset in frequentsets:
 
 #confidence of an association rule x -> y is (support of x U y)/(support of x)
 #calculate the frequency to calculate the support, y frequencies are already in sets1
-print "rules--------------------------\n"
-for k,v in rules.items():
-	print k, '-->', v
+# print "rules--------------------------\n"
+# for k,v in rules.items():
+# 	print k, '-->', v
 
 listrules = []
 for ru in rules:
